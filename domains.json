@@ -1,8 +1,8 @@
 {
   "appId": 314,
   "domains": [
-    "https://d1x2lvttinxnrj.cloudfront.net"
+    "https://gem-panel-edge-relay.vercel.app"
   ],
   "healthPath": "/api/v1/health",
-  "updatedAt": "2026-11-01T07:43:34.855Z"
+  "updatedAt": "2026-11-01T08:34:17.307Z"
 }
